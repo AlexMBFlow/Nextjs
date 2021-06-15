@@ -1,0 +1,9 @@
+.link {
+    font-size: 1.5em;
+    text-decoration: none;
+    padding-right: 10px;
+}
+
+.link:hover {
+    border-bottom: 2px solid blue;
+}
