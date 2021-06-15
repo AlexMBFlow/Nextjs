@@ -1,5 +1,5 @@
 npm run dev
 
 technologies:
-React
+React,
 Next.js
